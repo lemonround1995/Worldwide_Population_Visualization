@@ -1,6 +1,6 @@
 
 # Title: 
-Monte Carlo simulation: Predicting NBA western conference champion of season 2017-2018
+Worldwide Population Visualization (2016-2017)
 
 ## Team Member(s):
 Xiang Chen, Mengyuan Li, Yushuo Fan, Ruoqiao Zhang(Thursday)
